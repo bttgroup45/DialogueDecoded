@@ -1,4 +1,4 @@
-Model,Size (big/small)
+model,size
 alpaca-13b,small
 chatglm-6b,small
 chatglm2-6b,small

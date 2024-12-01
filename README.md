@@ -1,10 +1,10 @@
 # Dialogue Decoded: Humans & LLMs
 
-Large Language Models (LLMs) are advanced machine learning models that XXX. The goal of this project is to explore and understand what people ask LLMs and which models humans think do the best in specific contexts. We sample real conversation data from [Chatbot Arena](https://lmarena.ai), a website available for anyone to chat with two unknown AIs and vote which one they think has a better response.
+Large Language Models (LLMs) are advanced machine learning models that process and generate human-like text by understanding and predicting language patterns based on massive datasets. The goal of this project is to explore and understand what people ask LLMs and which models humans think do the best in specific contexts. We sample real conversation data from [Chatbot Arena](https://lmarena.ai), a website available for anyone to chat with two unknown AIs and vote which one they think has a better response.
 
 
 
-This repository is the result of a collaboration between MIT's Break Through Tech AI program and the MIT IBM Watson AI Lab.
+This repository is the result of a collaboration between MIT's [Break Through Tech](https://www.breakthroughtech.org) AI program and the [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu).
 
 
 

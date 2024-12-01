@@ -10,7 +10,7 @@ This repository is the result of a collaboration between MIT's Break Through Tec
 
 Contributors:
 
-[Kat Canavan]([thegalaxykat (Kat Canavan) · GitHub](https://github.com/thegalaxykat)), Jane Liu, [Sarah Simmons]([SarahSimmmons (Sarah Simmons) · GitHub](https://github.com/SarahSimmmons)), Nida Chacar-Palubinskas, & Dilanur Bayraktar.
+[Kat Canavan](https://github.com/thegalaxykat), Jane Liu, [Sarah Simmons](https://github.com/SarahSimmmons), Nida Chacar-Palubinskas, & Dilanur Bayraktar.
 
 Thank you to Mikhail Yurochkin and Felipe Maia Polo for advising this project.
 

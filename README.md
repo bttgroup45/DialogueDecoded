@@ -10,7 +10,7 @@ This repository is the result of a collaboration between MIT's [Break Through Te
 
 Contributors:
 
-[Kat Canavan](https://github.com/thegalaxykat), Jane Liu, [Sarah Simmons](https://github.com/SarahSimmmons), Nida Chacar-Palubinskas, & Dilanur Bayraktar.
+[Kat Canavan](https://github.com/thegalaxykat), Jane Liu, [Sarah Simmons](https://github.com/SarahSimmmons), [Nida Chacar-Palubinskas](https://github.com/nidacp), & Dilanur Bayraktar.
 
 Thank you to Mikhail Yurochkin and Felipe Maia Polo for advising this project.
 
